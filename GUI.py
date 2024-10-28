@@ -9,8 +9,7 @@ window = sg.Window('My To-Do App',
                    layout=[[label, input_box, add_button]],
                    font=('Helvetica', 20))
 
-# x, y = ('todo', todo item)
-
+# x, y = (event, value)
 while True:
     event, values = window.read()
     print(event)
