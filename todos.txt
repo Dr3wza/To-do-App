@@ -1,6 +1,2 @@
-upgrade computer
-get a girlfriend
-fix code
-Research how to write a CV
-Research companies
-Improve todo app
+Check To-Do app for bugs
+Dust figurines
