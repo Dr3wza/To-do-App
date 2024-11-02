@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/.venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/.venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/Bonus" />
+      <excludeFolder url="file://$MODULE_DIR$/CodeWithBugs" />
+      <excludeFolder url="file://$MODULE_DIR$/Exercises" />
+      <excludeFolder url="file://$MODULE_DIR$/ExperimentalFolder" />
+      <excludeFolder url="file://$MODULE_DIR$/Experiments" />
+      <excludeFolder url="file://$MODULE_DIR$/files" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
